@@ -11,3 +11,27 @@
 # About Me
 
 I decided to change my job and become a Frontend developer. I like to learn something new, and programming is exactly what I'm interested in, because you are constantly developing. I believe that I will succeed. I am very sociable, I learn quickly, I can work in a team.
+
+# Skills
+
+* __HTML5__
+* __CSS3__
+* __JavaScript__ (Fundamentals knowledge,in the process)
+* __Git,GitHub__
+* __Windows OS__
+* __Visual Studio Code__
+
+# Code examples
+
+```
+function otherAngle(a,b) {
+
+  return 180 - (a + b);
+
+}
+
+```
+
+# Expirience
+
+__I have experience in HTML5,CSS3, JavaScript__ (Layout of landing pages and solving simple tasks in JS)
